@@ -1,12 +1,14 @@
+package br.com.aluraexercicios;
+
 public class Musica {
     String titulo;
     String artista;
     int anoLancamento;
     int numAvaliacoes;
-    int somaDasAvaliacoes;
+    double somaDasAvaliacoes;
 
     void exibirFichaTecnica(){
-        System.out.println("Musica:  " + titulo);
+        System.out.println("br.com.aluraexercicios.Musica:  " + titulo);
         System.out.println("Artista:  " + artista);
         System.out.println("Lançamento:  " + anoLancamento);
     }

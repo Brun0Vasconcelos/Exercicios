@@ -1,3 +1,5 @@
+package br.com.aluraexercicios;
+
 public class ContaBancaria {
     public String titular;
     private int numeroConta = 12345;

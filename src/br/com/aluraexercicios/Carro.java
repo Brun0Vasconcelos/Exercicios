@@ -1,3 +1,5 @@
+package br.com.aluraexercicios;
+
 import java.time.Year;
 
 public class Carro {
@@ -20,12 +22,10 @@ public class Carro {
     public static void main(String[] args) {
         Carro carro = new Carro();
 
-        // Exemplo: definindo valores para os atributos
-        carro.modelo = "Fusca";
-        carro.cor = "Azul";
-        carro.ano = 1980;
+        carro.modelo = "Gol";
+        carro.cor = "verde";
+        carro.ano = 1990;
 
-        // Exibe a ficha técnica do carro
         carro.exibirFichaTecnica();
     }
 }

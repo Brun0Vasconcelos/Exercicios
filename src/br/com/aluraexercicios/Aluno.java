@@ -1,3 +1,5 @@
+package br.com.aluraexercicios;
+
 public class Aluno {
     String nome;
     int idade;

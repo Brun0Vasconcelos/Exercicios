@@ -1,7 +1,7 @@
 package br.com.aluraexercicios;
 import java.util.Scanner;
 
-public class Teste {
+public class ParOuImpar {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
@@ -9,9 +9,9 @@ public class Teste {
         int numero = teclado.nextInt();
 
         if (numero % 2 == 0) {
-            System.out.println("o numero " + numero + " é par");
+            System.out.println("O numero " + numero + " é par");
         } else {
-            System.out.println("o numero " + numero + " é impar");
+            System.out.println("O numero " + numero + " é impar");
         }
         teclado.close();
     }

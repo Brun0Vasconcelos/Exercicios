@@ -1,3 +1,5 @@
+package br.com.aluraexercicios;
+
 public class IdadePessoa {
     private String nome;
     private int idade;
@@ -31,7 +33,6 @@ public class IdadePessoa {
         info.setNome("Bruno");
         info.setIdade(31);
         info.verificaIdade();
-        System.out.println();
     }
 }
 
