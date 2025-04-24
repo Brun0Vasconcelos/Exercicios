@@ -1,29 +1,37 @@
-# Lista de Exercícios - Curso de Backend (Alura)
+# Exercícios - Curso de Backend Java | Alura
 
-Este repositório contém uma coleção de classes Java desenvolvidas como parte dos exercícios práticos do curso de **Backend da Alura**.
+📚 Repositório com os exercícios práticos realizados durante o curso de **Formação Backend Java** da [Alura](https://www.alura.com.br/).
 
-Cada classe representa um pequeno desafio ou exercício proposto ao longo do curso, com foco no desenvolvimento da lógica de programação, manipulação de entrada/saída, estruturas condicionais, orientação a objetos e uso de coleções.
+---
 
-## Estrutura dos arquivos
+## 💡 Objetivo
 
-Os arquivos estão organizados no pacote `br.com.aluraexercicios` e incluem os seguintes temas:
+Este repositório tem como finalidade consolidar os conhecimentos adquiridos nos módulos do curso, com foco em:
 
-- **Entrada de dados e validações:** `Acesso`, `Sistema`, `Emprestimo`, `Doador`
-- **Condicionais e lógica:** `ParOuImpar`, `Comparar`, `Desconto`, `DiaUtil`, `FimDeAno`, `Triangulo`
-- **Orientação a Objetos:** `Pessoa`, `ContaBancaria`, `Aluno`, `IdadePessoa`, `Musica`
-- **Coleções (ArrayList):** Uso em `Pessoa`
+- Lógica de programação  
+- Orientação a objetos  
+- Estrutura de dados  
+- Boas práticas com Java
 
-## Objetivo
+---
 
-Esses exercícios têm como objetivo:
+## 🧰 Tecnologias utilizadas
 
-- Fixar os conceitos de Java aprendidos durante o curso;
-- Praticar a criação de classes, métodos, atributos e uso de encapsulamento;
-- Aplicar lógica de programação para resolver pequenos problemas;
-- Preparar para desafios mais complexos no desenvolvimento backend.
+- Java (versão 17+ recomendada)
+- IntelliJ IDEA (ou outra IDE de sua preferência)
+- Git & GitHub
 
-## Requisitos
+---
 
-- JDK 17 ou superior
-- IDE de sua preferência (IntelliJ, Eclipse, VS Code etc.)
+## ▶️ Como executar
 
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/Brun0Vasconcelos/Exercicios.git
+
+## 📬 Contato
+
+👨‍💻 **Bruno Vasconcelos**  
+🔗 LinkedIn: https://www.linkedin.com/in/bruno-o-vasconcelos/  
+📧 E-mail: bruno.bov.sud@gmail.com
