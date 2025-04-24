@@ -33,5 +33,5 @@ Este repositório tem como finalidade consolidar os conhecimentos adquiridos nos
 ## 📬 Contato
 
 👨‍💻 **Bruno Vasconcelos**  
-🔗 LinkedIn: https://www.linkedin.com/in/bruno-o-vasconcelos/  
+🔗 [LinkedIn](https://www.linkedin.com/in/bruno-o-vasconcelos/)
 📧 E-mail: bruno.bov.sud@gmail.com
